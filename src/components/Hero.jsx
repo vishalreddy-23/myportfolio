@@ -4,7 +4,7 @@ export default function HeroSection() {
             {/* Left Side - Text */}
           <div className="text-center mt-24 px-4">
   <p className="text-2xl md:text-3xl font-semibold text-green drop-shadow-md">
-    Hi and welcome!
+    Welcome to Vishal's Portfolio
   </p>
   
   <p className="text-lg md:text-xl text-red mt-4 max-w-2xl mx-auto drop-shadow-md">
