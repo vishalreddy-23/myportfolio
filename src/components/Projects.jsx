@@ -36,6 +36,32 @@ export default function Projects() {
                     management, and interactive UI design using React components.
                 </p>
             </div>
+            <div className="project bg-white p-4 rounded-xl shadow-md hover:shadow-xl transition">
+  <h3 className="text-xl font-bold mb-2">Personal Portfolio Website</h3>
+  <p className="text-gray-700 mb-3">
+    A fully responsive personal portfolio built using React, Tailwind CSS, and deployed via Vercel. 
+    It showcases my skills, projects, resume, and contact details in a clean, modern UI.
+  </p>
+  <div className="flex space-x-4">
+    <a
+      href="https://myportfolio-wheat-one-88.vercel.app"
+      target="_blank"
+      rel="noopener noreferrer"
+      className="text-blue-600 hover:underline font-medium"
+    >
+      Live Demo
+    </a>
+    <a
+      href="https://github.com/vishalreddy-23/myportfolio"
+      target="_blank"
+      rel="noopener noreferrer"
+      className="text-blue-600 hover:underline font-medium"
+    >
+      View Code
+    </a>
+  </div>
+</div>
+
         </section>
     );
 }
