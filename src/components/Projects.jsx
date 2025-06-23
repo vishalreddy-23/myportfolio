@@ -36,10 +36,11 @@ export default function Projects() {
                     management, and interactive UI design using React components.
                 </p>
             </div>
-            <div className="project-card bg-white p-4 rounded-lg shadow-md">
-  <h3 className="text-lg font-bold">Portfolio Website</h3>
+
+            <div className="p-6 bg-emerald-100 rounded-lg shadow hover:shadow-lg transition">
+  <h3 className="text-3xl font-semibold text-emerald-700 mb-3">Portfolio Website</h3>
   <p>A personal portfolio built using React and Tailwind CSS to showcase my projects, skills, and resume. Deployed on Vercel.</p>
-  <div className="flex gap-4 mt-2">
+  <div className="text-gray-700 text-lg">
     <a href="https://github.com/vishalreddy-23/myportfolio" className="text-blue-600 hover:underline" target="_blank" rel="noopener noreferrer">View Code</a>
     <a href="https://myportfolio-wheat-one-88.vercel.app" className="text-blue-600 hover:underline" target="_blank" rel="noopener noreferrer">Live Demo</a>
   </div>
