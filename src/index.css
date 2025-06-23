@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+body {
+  @apply bg-cover bg-center bg-no-repeat;
+  background-image: url('/background.jpg'); /* path from public folder */ 
+  min-height: 100vh;
+}
