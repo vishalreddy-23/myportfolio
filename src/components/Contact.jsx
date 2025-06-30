@@ -24,13 +24,13 @@ export default function Contact() {
                 </a>
 
                 <a
-                    href="https://www.linkedin.com/in/j-vishal-reddy-43720a286/"
+                    href="https://github.com/vishalreddy-23"
                     target="_blank"
                     rel="noreferrer"
                     className="hover:text-emerald-600 transition duration-300"
                 >
                     🔗 <span className="font-semibold">Github:</span>{" "}
-                    <span className="text-emerald-500 font-bold">link to be kept </span>
+                    <span className="text-emerald-500 font-bold">vishalreddy-23</span>
                 </a>
             </div>
         </section>

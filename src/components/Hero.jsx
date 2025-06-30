@@ -15,7 +15,8 @@ export default function HeroSection() {
             <img
                 src="/image.png"
                 alt="jvr"
-                className="w-32 h-auto mx-auto mt-5 rounded-full shadow-md"
+                className="w-40 h-auto mx-auto mt-5 rounded-full shadow-md"
+
 
             />
         </section>

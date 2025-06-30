@@ -16,7 +16,7 @@ export default function About() {
       </p>
       <div className="mt-10">
   <a
-    href="/resume-vishal-reddy.pdf"
+    href="/resume.pdf"
     download
     target="_blank"
     rel="noopener noreferrer"
