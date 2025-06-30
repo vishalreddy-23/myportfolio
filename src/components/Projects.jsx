@@ -79,6 +79,7 @@ export default function Projects() {
           >
             View Code{" "}
           </a>
+          </t>
           <a
             href="https://myportfolio-wheat-one-88.vercel.app"
             className="text-blue-600 hover:underline"
