@@ -43,42 +43,60 @@ export default function Projects() {
           early detection and personalized recommendations.
         </p>
       </div>
+      <div className="p-6 bg-emerald-100 rounded-lg shadow hover:shadow-lg transition">
+        <h3 className="text-3xl font-semibold text-emerald-700 mb-2">
+          💡 Credit Risk Analysis using ML
+        </h3>
+        <p className="text-gray-700 text-lg">
+          Developed a supervised learning model to assess the creditworthiness
+          of loan applicants by analyzing real-world loan application datasets.
+          The project involved comprehensive data preprocessing, including
+          handling missing values, encoding categorical variables, and applying
+          resampling techniques to address class imbalance. Implemented and
+          compared multiple machine learning algorithms, such as Logistic
+          Regression and Random Forest, achieving an accuracy of 87% and an
+          F1-score of 0.85. The model effectively classified applicants based on
+          credit risk levels, supporting better decision-making for loan
+          approvals. Tools and technologies used included Python, Google Colab,
+          Pandas, Scikit-learn, and Matplotlib for model evaluation and
+          visualization.
+        </p>
+      </div>
 
       <div className="p-6 bg-emerald-100 rounded-lg shadow hover:shadow-lg transition">
         <h3 className="text-3xl font-semibold text-emerald-700 mb-3">
           Budget Manager
         </h3>
-       <p className="text-gray-700 text-lg mb-2">
-  Budget Manager is a responsive web application developed using HTML,
-  CSS, and JavaScript that enables users to manage personal finances by
-  tracking income and expenses. The project applies Data Structures and
-  Algorithms (DSA) concepts like arrays and methods such as map(),
-  filter(), and reduce() to calculate real-time balances and
-  category-wise totals. An undo feature is implemented using a stack to
-  reverse the last transaction. The interface is designed to be clean,
-  intuitive, and mobile-friendly. This project demonstrates practical
-  DSA use in a real-world budgeting tool while showcasing strong
-  front-end development skills.
-</p>
-<div className="text-gray-700 text-lg">
-  <a
-    href="https://github.com/vishalreddy-23/budget-manager"
-    className="text-blue-600 hover:underline mr-4"
-    target="_blank"
-    rel="noopener noreferrer"
-  >
-    View Code
-  </a>
-  <a
-    href="https://vishalreddy-23.github.io/budget-manager/"
-    className="text-blue-600 hover:underline"
-    target="_blank"
-    rel="noopener noreferrer"
-  >
-    Live Demo
-  </a>
-</div>
-
+        <p className="text-gray-700 text-lg mb-2">
+          Budget Manager is a responsive web application developed using HTML,
+          CSS, and JavaScript that enables users to manage personal finances by
+          tracking income and expenses. The project applies Data Structures and
+          Algorithms (DSA) concepts like arrays and methods such as map(),
+          filter(), and reduce() to calculate real-time balances and
+          category-wise totals. An undo feature is implemented using a stack to
+          reverse the last transaction. The interface is designed to be clean,
+          intuitive, and mobile-friendly. This project demonstrates practical
+          DSA use in a real-world budgeting tool while showcasing strong
+          front-end development skills.
+        </p>
+        <div className="text-gray-700 text-lg">
+          <a
+            href="https://github.com/vishalreddy-23/budget-manager"
+            className="text-blue-600 hover:underline mr-4"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            View Code
+          </a>
+          <a
+            href="https://vishalreddy-23.github.io/budget-manager/"
+            className="text-blue-600 hover:underline"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            Live Demo
+          </a>
+        </div>
       </div>
 
       <div className="p-6 bg-emerald-100 rounded-lg shadow hover:shadow-lg transition">
