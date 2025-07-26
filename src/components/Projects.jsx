@@ -86,7 +86,7 @@ export default function Projects() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            View Code
+            View Code{" "}
           </a>
           <a
             href="https://vishalreddy-23.github.io/budget-manager/"

@@ -12,7 +12,7 @@ export default function About() {
       <p className="text-lg leading-7 drop-shadow text-black-100">
         I'm <span className="font-bold text-white">Vishal Reddy</span>, a B.Tech student in Electronics and Communication Engineering at NIT Warangal (2022–2026), aspiring to become a Software Development Engineer (SDE).
         <br /><br />
-        I have a strong foundation in <strong>Data Structures & Algorithms</strong>, <strong>OOPs</strong>, and <strong>DBMS</strong>, along with frontend development skills using <strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong>, and <strong>React.js</strong>. I'm passionate about building clean UIs and solving real-world problems through code.
+        I have a strong foundation in <strong>Data Structures & Algorithms</strong>, <strong>OOPs</strong>,<strong>OS</strong> and <strong>DBMS</strong>, along with frontend development skills using <strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong>, and <strong>React.js</strong>. I'm passionate about building clean UIs and solving real-world problems through code.
       </p>
       <div className="mt-10">
   <a
