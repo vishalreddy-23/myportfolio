@@ -6,3 +6,11 @@ body {
   background-image: url('/background.jpg'); /* path from public folder */ 
   min-height: 100vh;
 }
+/* index.css */
+.zoom-hover {
+  transition: transform 0.3s ease-in-out;
+}
+
+.zoom-hover:hover {
+  transform: scale(1.05);
+}

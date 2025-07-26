@@ -40,3 +40,11 @@
 .read-the-docs {
   color: #888;
 }
+/* index.css */
+.zoom-hover {
+  transition: transform 0.3s ease-in-out;
+}
+
+.zoom-hover:hover {
+  transform: scale(1.05);
+}

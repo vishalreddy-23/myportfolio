@@ -3,7 +3,7 @@ export default function About() {
   return (
     <section
       id="about"
-      className="my-20 px-6 py-10 max-w-4xl mx-auto text-center bg-white/10 text-white rounded-xl backdrop-blur-sm shadow-md"
+      className="my-20 px-6 py-10 max-w-4xl mx-auto text-center bg-white/10 text-black rounded-xl backdrop-blur-sm shadow-md"
     >
       <h2 className="text-4xl font-bold text-emerald-400 mb-6 drop-shadow">
         About Me
